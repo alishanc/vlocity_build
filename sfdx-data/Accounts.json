@@ -1,0 +1,13 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "Account1",
+            "BillingCity": "San Francisco",
+            "BillingState": "CA"
+        }
+    ]
+}

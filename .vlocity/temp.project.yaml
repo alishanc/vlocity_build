@@ -1,0 +1,7 @@
+Name: Temp
+VlocityDataPackKeys:
+    - pages/CommunitiesLanding.page
+VlocityTypesToFetch:
+
+SalesforceTypesToFetch:
+    - ApexPage
