@@ -3,7 +3,8 @@
         {
             "attributes": {
                 "type": "Account",
-                "referenceId": "AccountRef1"
+                "referenceId": "AccountRef1",
+                "vlocity_cmt__Status__c" : "Yes"
             },
             "Name": "Account1",
             "BillingCity": "San Francisco",
